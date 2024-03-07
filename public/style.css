@@ -1,0 +1,9 @@
+.chat{
+    background-color: aliceblue;
+    display: inline-block;
+    border-radius: 10px;
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+}
